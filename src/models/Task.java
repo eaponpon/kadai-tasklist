@@ -40,7 +40,7 @@ public class Task {
     private Timestamp updated_at;
 
     public Integer getId() {
-        return id;
+         return id;
     }
 
     public void setId(Integer id) {
@@ -60,7 +60,7 @@ public class Task {
     }
 
     public void setCreated_at(Timestamp created_at) {
-        this.created_at = created_at;
+         this.created_at = created_at;
     }
 
     public Timestamp getUpdated_at() {

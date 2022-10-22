@@ -24,7 +24,7 @@ public class DestroyServlet extends HttpServlet {
      */
     public DestroyServlet() {
         super();
-    }
+     }
 
     /**
      * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
